@@ -1,0 +1,202 @@
+{
+  "data": [
+    {
+      "id": "46401",
+      "name": "Adams County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46402",
+      "name": "Allen County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46404",
+      "name": "Allen County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46403",
+      "name": "Allen County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46405",
+      "name": "Bartholomew County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46406",
+      "name": "Benton County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46407",
+      "name": "Benton County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46408",
+      "name": "Benton County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46409",
+      "name": "Blackford County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46410",
+      "name": "Boone County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "id": "46411",
+      "name": "Boone County, IN",
+      "riskDistribution": [
+        {
+          "category": "HIGH",
+          "count": 2
+        },
+        {
+          "category": "MEDIUM",
+          "count": 20
+        },
+        {
+          "category": "LOW",
+          "count": 7
+        }
+      ]
+    }
+  ]
+}
